@@ -1,5 +1,25 @@
 [
   {
+    "id": 1,
+    "sku": "SKU001",
+    "name": "ถ้วยลายใบตอง",
+    "image": "/images/01.jpeg",
+    "price": 320,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 3",
+    "size": "Small",
+    "weight": "0.5kg"
+  },
+  {
+    "id": 2,
+    "sku": "SKU002",
+    "name": "แก้วกระดาษสีแดง ECO ขนาด 14 oz",
+    "image": "/images/02.jpeg",
+    "price": 825,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 3",
+    "size": "Small",
+    "weight": "0.5kg"
+  },
+  {
     "id": 3,
     "sku": "SKU003",
     "name": "กล่องใส่อาหารพาสติก 1 ช่อง",
@@ -32,7 +52,7 @@
   {
     "id": 6,
     "sku": "SKU003",
-    "name": "Updated product",
+    "name": "ที่วางแก้วแบบ 2 ช่อง",
     "image": "/images/06.jpeg",
     "price": 350,
     "description": "Updated description of Product 3",
