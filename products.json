@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "sku": "SKU001",
+    "name": "กระดาษห่ออาหารพิมพ์ลายใบตอง",
+    "image": "/images/01.jpeg",
+    "price": 100,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 1",
+    "size": "Medium",
+    "weight": "1kg"
+  },
+  {
+    "id": 2,
+    "sku": "SKU002",
+    "name": "แก้ว RedCup(160z)",
+    "image": "/images/02.jpeg",
+    "price": 200,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 2",
+    "size": "Large",
+    "weight": "2kg"
+  },
+  {
+    "id": 3,
+    "sku": "SKU003",
+    "name": "กล่องใส่อาหารพาสติก 1 ช่อง",
+    "image": "/images/03.jpeg",
+    "price": 825,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 3",
+    "size": "Small",
+    "weight": "0.5kg"
+  },
+  {
+    "id": 4,
+    "sku": "SKU004",
+    "name": "กระทงกระดาษ 8 นิิ้ว ลายใบตอง",
+    "image": "/images/04.jpeg",
+    "price": 2800,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 4",
+    "size": "Extra Large",
+    "weight": "3kg"
+  },
+  {
+    "id": 5,
+    "sku": "SKU005",
+    "name": "กล่องหูหิ้ว OTOP ไซต์ L",
+    "image": "/images/05.jpeg",
+    "price": 280,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 5",
+    "size": "Medium",
+    "weight": "1.2kg"
+  },
+  {
+    "id": 6,
+    "sku": "SKU006",
+    "name": "กล่องใส่อาหารสีดำ 2 ช่อง",
+    "image": "/images/15.jpeg",
+    "price": 1800,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 6",
+    "size": "Large",
+    "weight": "2.5kg"
+  },
+  {
+    "id": 7,
+    "sku": "SKU007",
+    "name": "ถาดวางแก้ว  2 ช่อง สีน้ำตาล",
+    "image": "/images/07.jpeg",
+    "price": 1000,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 7",
+    "size": "Small",
+    "weight": "0.7kg"
+  },
+  {
+    "id": 8,
+    "sku": "SKU008",
+    "name": "แก้วกระดาษสีน้ำตาล",
+    "image": "/images/08.jpeg",
+    "price": 1500,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 8",
+    "size": "Medium",
+    "weight": "1.5kg"
+  },
+  {
+    "id": 9,
+    "sku": "SKU009",
+    "name": "กล่องกระดาษคราฟท์ 26 oz",
+    "image": "/images/09.jpeg",
+    "price": 2800,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 9",
+    "size": "Extra Small",
+    "weight": "0.4kg"
+  },
+  {
+    "id": 10,
+    "sku": "SKU010",
+    "name": "แก้วกระดาษ ECO รักษ์โลก",
+    "image": "/images/13.jpeg",
+    "price": 750,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 10",
+    "size": "Extra Large",
+    "weight": "4kg"
+  },
+  {
+    "id": 11,
+    "sku": "SKU003",
+    "name": "กระดาษหูหิ้วขนาด 10x25x50 cm",
+    "image": "/images/11.jpeg",
+    "price": 340,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 3",
+    "size": "Small",
+    "weight": "500g"
+  },
+  {
+    "id": 12,
+    "sku": "SKU003",
+    "name": "แก้วใสสีดำ ขนาด 12 Oz",
+    "image": "/images/14.jpeg",
+    "price": 680,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 3",
+    "size": "Small",
+    "weight": "500g"
+  }
+]
