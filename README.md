@@ -35,7 +35,7 @@ npm start
   curl -X POST http://localhost:8000/products \
   -H "Content-Type: application/json" \
   -d '{
-    "id":"19"
+    "id":19
     "sku": "SKU003",
     "name": "Add NEW",
     "image": "/images/01.jpeg",
