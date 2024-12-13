@@ -70,6 +70,8 @@ app.post("/products", (req, res) => {
   };
   products.push(newProduct);
   saveProducts(products);
+  console.log("Updated new item sucessfully ! ");
+
   res.status(201).json(newProduct);
 });
 
@@ -98,6 +100,8 @@ app.delete("/products/:id", (req, res) => {
   }
   const deletedProduct = products.splice(productIndex, 1);
   saveProducts(products);
+  console.log("Deleted Item successfully");
+
   res.json(deletedProduct);
 });
 
