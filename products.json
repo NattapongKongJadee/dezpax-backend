@@ -33,7 +33,7 @@
     "id": 6,
     "sku": "SKU003",
     "name": "Updated product",
-    "image": "/images/product3.jpg",
+    "image": "/images/06.jpeg",
     "price": 350,
     "description": "Updated description of Product 3",
     "size": "Medium",
@@ -86,126 +86,6 @@
     "image": "/images/14.jpeg",
     "price": 680,
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 13,
-    "sku": "SKU003",
-    "name": "Product 3",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 14,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 15,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 16,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 17
-  },
-  {
-    "id": 18
-  },
-  {
-    "id": 19
-  },
-  {
-    "id": 20
-  },
-  {
-    "id": 21
-  },
-  {
-    "id": 22,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 23,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 24,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 25
-  },
-  {
-    "id": 26
-  },
-  {
-    "id": 27
-  },
-  {
-    "id": 28
-  },
-  {
-    "id": 29
-  },
-  {
-    "id": 30,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
-    "size": "Small",
-    "weight": "500g"
-  },
-  {
-    "id": 31,
-    "sku": "SKU003",
-    "name": "Add new product",
-    "image": "/images/product3.jpg",
-    "price": 300,
-    "description": "Description of Product 3",
     "size": "Small",
     "weight": "500g"
   }
